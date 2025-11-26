@@ -17,3 +17,4 @@
 - **throughput.py**: 处理iperf3测试结果中的TP值
 - **turntable.py，turntable_telnetlib3.py**: 转台函数，调用转台旋转，目前只支持特定转台，后面需要拓展为通用支持方式
 - **write_datas.py**:将测试中的数据写入txt文件中
+- **rvrgui_llayout.py**: GUI界面，逻辑功能还待完善
